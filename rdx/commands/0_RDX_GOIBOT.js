@@ -535,7 +535,7 @@ loadUserData();
 module.exports = {
   config: {
     name: 'goibot',
-    aliases: ['bot', 'mano'],
+    aliases: ['bot', 'janiya'],
     description: 'janiya AI chatbot with smart command execution',
     usage: 'janiya [message] or bot [message]',
     category: 'Utility',
